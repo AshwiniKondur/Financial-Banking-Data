@@ -4,7 +4,7 @@
         <p style="margin: 0;"><b>    - Data Profiling / EDA </b><br>
         <p style="margin: 0;"><b>    - Data Pipeline Process and KEY Functions</b><br>
         <p style="margin: 0;"><b>    - Data Model and Table Structure Overview</b><br>
-        <p style="margin: 0;"><b>    - Airflow DAG</b><br>
+        <p style="margin: 0;"><b>    - Airflow DAG</b><br> 
         <p style="margin: 0;"><b>    - Documentation on physical data model and reasons behind it.</b><br>
 </div>
 
