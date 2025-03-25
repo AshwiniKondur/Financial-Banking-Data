@@ -1,6 +1,9 @@
 <div style="padding: 0; margin: 0; line-height: 1.2;">
     <h1 style="margin: 0;"><b><font color='blue'>Financial Banking Data</font></b></h1>
     <p style="margin: 0;"><b>Designed and developed end to end ETL Data Pipeline Workflow using Airflow on Docker</b><br>
+        <p style="margin: 0;"><b>Data Profiling / Data Insights. Use tools of your choice.</b><br>
+        <p style="margin: 0;"><b>Recommendations for storying this data. Document on physical data model and reasons behind it.</b><br>
+        <p style="margin: 0;"><b>Implement data pipeline using Airflow, Docker, Python and SQL.</b><br>
 </div>
 
 ![image](https://github.com/user-attachments/assets/0a385e91-6cd5-4c54-b7c7-3142322d713f)
